@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/sadad111/myblog/issues"
   },
-  "homepage": "https://github.com/sadad111/myblog#readme"
+  "homepage": "https://github.com/sadad111/myblog#readme",
+  "dependencies": {
+    "ejs": "^2.4.2",
+    "express": "^4.13.4",
+    "path": "^0.12.7"
+  }
 }
